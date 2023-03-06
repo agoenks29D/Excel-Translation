@@ -1,4 +1,13 @@
 {
+  "name": "agoenks29d/json-translation",
+  "type": "library",
+	"license": "MIT",
+  "authors": [
+		{
+			"name": "Agung Dirgantara",
+			"email": "agungmasda29@gmail.com"
+		}
+	],
   "require": {
     "phpoffice/phpspreadsheet": "^1.27"
   }
